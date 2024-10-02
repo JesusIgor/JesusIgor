@@ -5,7 +5,7 @@
 </div>
 <br>
 <p>- 👀 I’m interested in Partnerships and Jobs, as well learn more and more with the experiences</p>
-<p>- ✏️ I’m currently learning about Python and SQL</p>
+<p>- ✏️ I’m currently learning about React Native, TypeScript, Node JS and RESTful API </p>
 <p>- 📫 Contact me through this email <a href = "mailto:igorjesus24@gmail.com">igorjesus24@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
